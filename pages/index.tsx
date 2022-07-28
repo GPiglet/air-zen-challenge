@@ -63,7 +63,7 @@ export default function Home() {
       </Head>
 
       <div className="container relative mx-auto main-wrapper">
-        <svg viewBox="0 0 1242 1918" fill="none" className="fixed w-9/12 xl:w-4/5 -z-50 right-[-70px]">
+        <svg viewBox="0 0 1242 1918" fill="none" className="fixed w-9/12 xl:w-3/4 -z-50 right-[-70px]">
           <path ref={circleRef4} opacity="0.33" d="M50.0812 505.846C55.2567 793.408 335.109 1004.06 627.722 1105.88C920.334 1207.71 1234.95 1463.84 1242.99 1910.91C1245.57 2054.91 1245.77 -40.6493 1242.99 -196C1013.21 -74.341 900.231 -29.3399 594.437 -24.1822C288.643 -19.0244 44.9057 218.284 50.0812 505.846Z" fill="url(#paint0_linear_0_2675)"/>
           <circle opacity="0.7" cx="511.73" cy="500.732" r="346.322" fill="url(#paint1_radial_0_2675)" ref={circleRef1}/>
           <circle opacity="0.3" cx="512.406" cy="500.274" r="362.358" stroke="#7BB690" ref={circleRef2}/>
